@@ -1,0 +1,6 @@
+24-03
+- Sur la liste des extincteurs lorsque l'on clique sur la vérification avoir la liste des extincteurs  vérifies et non vérifié
+- Avoir la liste des RIA & PIA
+- Sur la listes des sites pour une vérification, mettre le nombre d'éléments/sur le nombre d'éléments vérifié
+- Pour la page permettant de clore une vérification, afficher la liste des sites avec tous les éléments, une zone de texte pour mettre le commentaire
+- 
